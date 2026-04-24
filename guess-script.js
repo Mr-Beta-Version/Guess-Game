@@ -9,7 +9,7 @@ while(key!=userkey){
         userkey = prompt("You Enter A Small Number. Try Again");
     }
     else{
-        userkey = prompt("Guess a number bullshit");
+        userkey = prompt("Guess a number fool");
     }
 }
 
