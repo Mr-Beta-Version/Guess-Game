@@ -13,4 +13,4 @@ while(key!=userkey){
     }
 }
 
-console.log("Congratulations You Win The Game");
+alert("Congratulations You Win The Game");
